@@ -1,0 +1,15 @@
+{
+  "name": "sprunki-incredibox",
+  "version": "1.0.0",
+  "description": "Uma versão interativa do Incredibox com um toque criativo e assustador.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "[Seu Nome]",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
