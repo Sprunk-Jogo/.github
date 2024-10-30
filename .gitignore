@@ -1,0 +1,11 @@
+# Dependências do Node
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cache do ambiente
+.DS_Store
+.env
