@@ -1,5 +1,7 @@
 # Sprunk Incredibox - Sprunk Dandy's World - Jogar Online
 
+![hq720](https://github.com/user-attachments/assets/dcd73fa7-685b-4306-81dc-b4e57cec02b2)
+
 ## Descrição
 Este repositório contém os arquivos e recursos relacionados ao jogo Sprunki Incredibox, uma versão divertida e interativa inspirada no clássico Incredibox. No Sprunki Incredibox, os jogadores podem criar composições musicais únicas com personagens excêntricos e sons únicos, adicionando um toque assustador e encantador ao processo de criação musical.
 
